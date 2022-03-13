@@ -14,6 +14,24 @@
     color: #2b4bc9; 
     margin-right: 5%;
 }
+.iconsSchedule {
+    color: #2b4bc9;
+    height: 30px;
+    width: 30px;
+    background-color: #f1f5ff;
+    padding: 0.5%;
+    border-radius: 10%;
+    margin-right: 2%;
+}
+.iconsMini {
+    color: #2b4bc9;
+    height: 30px;
+    width: 30px;
+    background-color: #f1f5ff;
+    padding: 3%;
+    border-radius: 10%;
+    margin-right: 5%;
+}
 .iconsArrow{
     color: #2b4bc9; 
     margin-left: 16%;
@@ -109,6 +127,10 @@
     padding-top: 1%;
     max-width: 76%;
     margin-left: 2%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #fafaff;
+    border-radius: 5px;
 }
 .imgs {
     position: absolute;
